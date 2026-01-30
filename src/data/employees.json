@@ -1,0 +1,57 @@
+[
+  {
+    "id": "E101",
+    "name": "Yosi Cohen",
+    "phoneNumber": "0501111111",
+    "accountNumber": "05451767",
+    "storeID" : "1",
+    "workerID": "1",
+    "username": "YosiCCC123",
+    "password": "Admin123@!",
+    "type": "SellerEmployee"
+  },
+  {
+    "id": "E102",
+    "name": "Rani Levi",
+    "phoneNumber": "0502222222",
+    "accountNumber": "47761646",
+    "storeID": "2",
+    "workerID": "2",
+    "username": "RLEV4444",
+    "password": "Aadmin123$",
+    "type": "RegisterEmployee"
+  },
+  {
+    "id": "E103",
+    "name": "Moshe Israeli",
+    "phoneNumber": "0503333333",
+    "accountNumber": "65468793",
+    "storeID": "1",
+    "workerID": "3",
+    "username": "IsrMoshe321",
+    "password": "Admin123@",
+    "type": "ManagerEmployee"
+  },
+  {
+    "id": "E001",
+    "name": "Yosi Cohen",
+    "phoneNumber": "05011112311",
+    "accountNumber": "6346873",
+    "storeID" : "2",
+    "workerID": "4",
+    "username": "ChoenPriest123",
+    "password": "Admin123#",
+    "type": "SellerEmployee"
+  },
+  {
+    "id": "E000",
+    "name": "Me",
+    "phoneNumber": "0501145611",
+    "accountNumber": "2",
+    "storeID" : "1",
+    "workerID": "5",
+    "username": "host",
+    "password": "Admin123!",
+    "type": "RegisterEmployee"
+  }
+]
